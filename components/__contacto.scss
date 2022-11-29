@@ -1,0 +1,19 @@
+.principal {
+    padding-top: 20px;
+    margin-top: 5vh;
+}
+.principal__contacto {
+    margin-top: 0vh;
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
+.principal__contacto__botonenviar{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.principal__contacto > form {
+    width: 5rem;
+}

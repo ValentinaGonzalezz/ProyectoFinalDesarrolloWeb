@@ -1,0 +1,86 @@
+
+
+h2 { 
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+h3{
+    font-size: 60px;
+}
+
+header{
+    background-color: #cf098d;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    display: flex;
+    opacity: 0.9 ;
+    align-items: center;
+    position: sticky;
+    top: 0%;
+    width: 100%;
+}
+
+.section1 {
+    text-align: center;
+}
+
+
+.navbar div a {
+    font-size: 1.3rem;
+}
+
+.imglogo {
+    padding-left: 16cm; 
+}
+
+
+.a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: black;
+}
+h2 { 
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h3{
+    font-size: 60px;
+}
+.header{
+    background-color: #ffcbff;
+}
+
+.header {
+    background-color: #f19ee4;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+/* animacion de catalogo imagenes*/
+.img-catalogue:hover {
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #b6e4f7;
+    -webkit-box-shadow: 0px 0px 15px 15px #b5eff7;
+    transform: rotate(360deg);
+}
+
+.card-img-top:hover{
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    box-shadow: 0px 0px 15px 15px #b6e4f7;
+    -webkit-box-shadow: 0px 0px 15px 15px #b5eff7;
+    transform: rotate(360deg);
+}
